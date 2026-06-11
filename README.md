@@ -1,4 +1,87 @@
 ## Hi there 👋
+# Hi, I'm Aditi 👋
+
+### AI/ML Enthusiast | Full Stack Developer | Computer Science Student
+
+I'm passionate about building intelligent applications using Machine Learning, Data Science, and modern web technologies. I enjoy solving real-world problems through software and continuously exploring new technologies.
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 AI Finance Platform
+
+An AI-powered platform designed to provide financial insights and intelligent analysis.
+
+### 👩‍💻 Collaborative Code Editor
+
+A real-time collaborative coding environment built using modern web technologies.
+
+### 💬 Hate Speech Detection
+
+Machine learning model for identifying and classifying toxic online content.
+
+### 📊 Customer Churn Prediction
+
+Predictive analytics solution to identify customers likely to leave a business.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* JavaScript
+* TypeScript
+* C++
+* SQL
+
+**Frontend**
+
+* React
+* HTML
+* CSS
+
+**Backend**
+
+* Node.js
+
+**Machine Learning**
+
+* TensorFlow
+* Scikit-Learn
+* Pandas
+* NumPy
+
+**Databases**
+
+* MongoDB
+* MySQL
+
+---
+
+## 🌱 Currently Learning
+
+* Generative AI
+* RAG Applications
+* MLOps
+* Cloud Technologies
+* Advanced Full Stack Development
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi1586\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi1586\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aditi1586\&theme=tokyonight)
+
+---
+
+⭐ Always learning, building, and improving.
 
 <!--
 **aditi1586/aditi1586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
