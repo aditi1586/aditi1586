@@ -10,57 +10,15 @@ I'm passionate about building intelligent applications using Machine Learning, D
 
 ---
 
-## 🚀 Featured Projects
-
-### 💰 AI Finance Platform
-
-An AI-powered platform designed to provide financial insights and intelligent analysis.
-
-### 👩‍💻 Collaborative Code Editor
-
-A real-time collaborative coding environment built using modern web technologies.
-
-### 💬 Hate Speech Detection
-
-Machine learning model for identifying and classifying toxic online content.
-
-### 📊 Customer Churn Prediction
-
-Predictive analytics solution to identify customers likely to leave a business.
-
----
-
 ## 🛠️ Tech Stack
 
-**Languages**
+💻 Python • JavaScript • TypeScript • C++
 
-* Python
-* JavaScript
-* TypeScript
-* C++
-* SQL
+🌐 React • Node.js
 
-**Frontend**
+🤖 TensorFlow • Scikit-Learn • Pandas • NumPy
 
-* React
-* HTML
-* CSS
-
-**Backend**
-
-* Node.js
-
-**Machine Learning**
-
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
-
-**Databases**
-
-* MongoDB
-* MySQL
+🗄️ MongoDB • MySQL
 
 ---
 
