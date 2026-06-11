@@ -1,5 +1,8 @@
-## Hi there 👋
 # Hi, I'm Aditi 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aditi1586&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ### AI/ML Enthusiast | Full Stack Developer | Computer Science Student
 
